@@ -9,7 +9,7 @@ dependencies:
 #  lists: ^0.1.6
   lists:
     git:
-      url: git://github.com/kelegorm/lists.git
+      url: git://github.com/kelegorm/lists_null_safety.git
       ref: d3ba536056328516a1a9a0ec6a05ef6702d48810
 dev_dependencies:
   http: ^0.13.0
